@@ -10,7 +10,7 @@ let moves = 0;
 let counter = document.querySelector(".moves");
 
 // declare variables for star icons
-const stars = document.querySelectorAll(".fa-star");
+const stars = document.querySelectorAll(".starstwo");
 
 // declaring variable of matchedCards
 let matchedCard = document.getElementsByClassName("match");
