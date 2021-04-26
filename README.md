@@ -1,14 +1,13 @@
-# Memory Game Project
+# Memory Game 
 
 ## What is the Memory Game
 This is a simple game built to test a users memory. There's a deck of cards with different icons. 
-![snippet](img/snippet.png)
 
 ## Challenge
 Match cards in less time with less moves.
 
 ## How to Play
-Load this link in your browser https://memory-game-fend.herokuapp.com/
+Load this link in your browser https://https://kwerrell73.github.io/memory-game//
 
 ## Instructions
 * Click on a card
@@ -22,3 +21,19 @@ I manipulated the DOM with Vanilla JS, altered part of the HTML and also styled 
 * created a counter to count the number of moves made by player and timer to know the duration of a play
 * added effects to cards when they match and are unmatched
 * create a pop-up modal when player wins game
+
+
+## Built With
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+
+
+## Website
+https://kwerrell73.github.io/Portfolio/
+
+## Contribution
+Made with ❤️ by Kellie Werrell
+
+### ©️2021 Portfolio 
