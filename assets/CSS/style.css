@@ -8,13 +8,21 @@ html {
 	box-sizing: inherit;
 }
 
-html,
+html {
+    zoom: 0.8; 
+    -moz-transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+}
+
 body {
-	width: 100%;
-	height: 100%;
+	width: 80%;
+	height: 80%;
 	margin: 0;
 	padding: 0;
 }
+
+
 
 body {
 	background: #ffffff;
