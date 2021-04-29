@@ -31,7 +31,7 @@ I manipulated the DOM with Vanilla JS, altered part of the HTML and also styled 
 
 
 ## Website
-https://kwerrell73.github.io/Portfolio/
+https://kwerrell73.github.io/memory-game/
 
 ## Screenshots
 ![](./assets/images/screenshots/memory.png)
